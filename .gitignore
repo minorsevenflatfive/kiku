@@ -1,1 +1,15 @@
-/target
+# Rust build artifacts
+target/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Rust language server
+.rls/
+
+# Cargo lock file
+Cargo.lock
+
