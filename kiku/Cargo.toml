@@ -1,5 +1,5 @@
 [package]
-name = "kiku"
+name = "kiku-rust"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,5 +8,4 @@ edition = "2021"
 [dependencies]
 tui = "0.19"
 crossterm = "0.25"
-cpal = "0.14.1"
-gstreamer = "0.19.1"
+rodio = "0.17"
