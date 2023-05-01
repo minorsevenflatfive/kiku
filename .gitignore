@@ -13,3 +13,5 @@ target/
 # Cargo lock file
 Cargo.lock
 
+# DS_Store
+**/.DS_Store
